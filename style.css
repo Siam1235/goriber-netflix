@@ -1,0 +1,70 @@
+
+#sectionone{
+    background-image: url("Image/netflix.jpg");
+    margin: 0px;
+    padding: 0px;
+    background-position: 0vh;
+    height: 100%;
+}
+
+
+
+
+#sidelogo{
+    color: red;
+    margin: 20px 40px;
+    width: 20%;
+    display: inline-block;
+}
+#signin{
+    color: white;
+    background-color: red;
+    border: 0px solid red;
+    padding: 10px 30px;
+    margin-left: 65%;
+    margin-top: 0px;
+    border-radius: 5px;
+    
+}
+.title{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.decoration{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.inputs{
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    display: block;
+    
+}
+.zero{
+    margin-left: 90px;
+    width: 50%;
+    padding: 20px 30px;
+}
+.buttonone{
+    
+    border: none;
+    padding: 22px 50px;
+    color: white;
+    background-color: red;
+}
+
+#mainslogan{
+    font-size: 70px;
+    
+}
+
+#secondslogan{
+    font-size: 30px;
+    font-weight: 400;
+}
